@@ -32,7 +32,7 @@ As a application consultant working as a contractor at IBM, I had the opportunit
 ## 💻 Tech Stack
 
 - **Java:** I have a strong background in Java development, using it to create robust and scalable applications.
-- **Python:** Proficient in Python for various purposes, including scripting, automation, and web development.
+- **Python:** Proficient in Python for various purposes, mainly data science projects
 - **C:** Experience in low-level programming with C, contributing to performance-critical components.
   
 ## 🛠️ DevOps Skills
