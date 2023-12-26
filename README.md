@@ -21,7 +21,7 @@ I'm a passionate software engineer with a strong background in Java, Python, and
 
 ## 🚀 Work Experience
 
-### IBM :eye::bee:M (June 2022 - Present) 
+### IBM :eye::bee::m: (June 2022 - Present) 
 As a application consultant working as a contractor at IBM, I had the opportunity to work on cutting-edge projects that pushed the boundaries of technology. My responsibilities included:
 
 - Collaborating with cross-functional teams to design and implement scalable software solutions.
