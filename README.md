@@ -21,7 +21,10 @@ I'm a passionate software engineer with a strong background in Java, Python, and
 
 ## 🚀 Work Experience
 
-### IBM :eye::bee::m: (June 2022 - Present) 
+### Intenseye (January 2024 - Present) 
+Application support specialist at Intenseye
+
+### IBM :eye::bee::m: (June 2022 - January 2024) 
 As a application consultant working as a contractor at IBM, I had the opportunity to work on cutting-edge projects that pushed the boundaries of technology. My responsibilities included:
 
 - Collaborating with cross-functional teams to design and implement scalable software solutions.
